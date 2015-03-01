@@ -1,2 +1,2 @@
-# ilyagubarev-frontend
-Ilya Gubarev personal blog
+# Ilya Gubarev Blog View
+Ilya Gubarev personal blog view
