@@ -6,23 +6,26 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.soulwarelabs.ilyagubarev.blog.view</groupId>
-    <artifactId>blog-view</artifactId>
+    <groupId>com.soulwarelabs.ilyagubarev</groupId>
+    <artifactId>ilyagubarev-online</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
 
-    <name>IlyaGubarev-View</name>
-    <description>Ilya Gubarev personal blog view</description>
+    <name>Ilya Gubarev : Online</name>
 
     <organization>
         <name>Soulware Labs</name>
-        <url>http://soulwarelabs.com</url>
+        <url>http://www.soulwarelabs.com</url>
     </organization>
 
     <scm>
-        <connection>scm:git:git@github.com:soulwarelabs/ilyagubarev-blog-view.git</connection>
-        <url>git@github.com:soulwarelabs/ilyagubarev-blog-view.git</url>
+        <connection>scm:git:git@github.com:soulwarelabs/ilyagubarev-online.git</connection>
+        <url>git@github.com:soulwarelabs/ilyagubarev-online.git</url>
     </scm>
+
+    <modules>
+        <module>view</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
