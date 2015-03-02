@@ -1,0 +1,22 @@
+.post-list{
+
+}
+
+.post{
+	width: 100%;
+	display: flex;
+}
+
+.post .left{
+	width: 8%;
+	padding: 1px;
+}
+
+.post .right{
+	width: 90%;
+	padding: 1px;
+}
+
+.post .right span{
+	display: block;
+}

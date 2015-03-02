@@ -1,0 +1,37 @@
+.header{
+	box-shadow: 0 1px 0 #333;
+	margin: 0 40px;
+	background-color: #293056;
+}
+
+.header ul{
+	display: inline-block;
+	list-style-type: none;
+	margin-right: 5px;
+}
+
+.header ul li{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.header a, a:visited{
+ color: #BCBFC8;
+}
+
+.logo .logo-item img{
+	height: 100px;
+	vertical-align: middle;
+}
+
+.menu{
+	width: 70%;
+}
+
+.logo, .locale{
+	width: 12%;
+}
+
+.locale{
+	text-align: right;
+}
