@@ -20,7 +20,7 @@
     <name>Ilya Gubarev : Online : View</name>
 
     <modules>
-        <module>base</module>
+        <module>standard</module>
     </modules>
 
     <properties>
