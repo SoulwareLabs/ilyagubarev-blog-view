@@ -29,7 +29,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
                 <configuration>
-                    <warName>${project.artifactId}-${project.version}</warName>
+                    <warName>ilyagubarev-online-view-standard</warName>
                 </configuration>
             </plugin>
         </plugins>
