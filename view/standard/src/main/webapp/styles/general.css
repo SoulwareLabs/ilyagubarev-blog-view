@@ -11,6 +11,7 @@ body{
 	height: 100%;
 	min-width: 800px;
 	overflow: auto;
+	font-family: 'Sorts Mill Goudy', Georgia, Times, serif;
 }
 
 .wrapper{
@@ -21,7 +22,7 @@ body{
 	color: #414a51;
 	font-weight: 400;
 	font-size: 16px;
-	font-family: "proxima-nova", "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	/*font-family: "proxima-nova", "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 	line-height: 1.2;
 }
 
@@ -40,8 +41,9 @@ body{
 
 .footer{
 	height: 50px;
-	box-shadow: 0 -1px 0 #333;
-	background-color: #293056;
+	box-shadow: 0 -1px 0 #966DA1;
+	margin: 0 140px;
+	padding: 0 5px;
 }
 
 .footer p{
